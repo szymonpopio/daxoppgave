@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "firebase": "^9.6.7",
+    "heroku": "^7.33.3"
+  },
+  "name": "daxoppgave",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szymonpopio/daxoppgave.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szymonpopio/daxoppgave/issues"
+  },
+  "homepage": "https://github.com/szymonpopio/daxoppgave#readme"
+}
