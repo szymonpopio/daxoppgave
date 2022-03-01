@@ -1,0 +1,24 @@
+.centeredBox{
+    height:300px;
+}
+
+.signIn {
+	margin-top: 50px;
+}
+
+.luckyNum {
+	font-size: 82px;
+}
+
+.userList {
+	text-align: center;
+	list-style-type: none;
+}
+
+.listText {
+	text-align: center;
+}
+
+.inputDiv {
+	text-align: center;
+}

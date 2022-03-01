@@ -1,3 +1,5 @@
+//a JS file to handle firebase to limit clutter
+
 const firebaseConfig = {
 	apiKey: "AIzaSyCbF1_aZXwTBwQ0MkHPFjD41YmLVqJy-34",
 	authDomain: "daxoppgave-b5c88.firebaseapp.com",
